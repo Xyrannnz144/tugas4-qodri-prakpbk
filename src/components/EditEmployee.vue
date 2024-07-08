@@ -134,6 +134,7 @@
   
   .error {
     color: red;
+    font-weight: bolder;
     margin-top: 10px;
   }
   </style>

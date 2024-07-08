@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-      <h1>Manajemen Pegawai</h1>
+      <h1>Manajemen Pegawai Xyrannz Store</h1>
       <EmployeeList
         :employees="employees"
         @edit-employee="editEmployee"

@@ -1,6 +1,6 @@
 <template>
     <div class="employee-list">
-      <h2>Daftar Pegawai</h2>
+      <h2>List Data Pegawai</h2>
       <div class="table-container">
         <table>
           <thead>
